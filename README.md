@@ -1,4 +1,4 @@
-<img src="assets/plants.gif" />
+<img src="assets/plants.gif" width="100%"/>
 <hr>
 <p align="center">
 <b style="font-size:30vw;">PotaBot</b>
